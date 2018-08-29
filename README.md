@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title> Fallout 4: Katara Chronicles</title>
+    <title> Fallout 4 Fan Fiction: Katara Chronicles</title>
   </head>
 
   <body>
