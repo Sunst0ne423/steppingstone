@@ -1,6 +1,9 @@
 # steppingstone
 <!DOCTYPE html>
 <html>
+<head>
+  <title> Fallout 4 Fan Fiction: Katara Chronicles</title>
+</head>
 
   <body>
     <h1> Preface</h1>
